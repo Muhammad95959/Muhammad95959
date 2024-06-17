@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **Frontend development**
 
-- 💬 Ask me about: **Linux, bash, git, kotlin, html and css**
+- 💬 Ask me about: **Linux, bash, git, Android, kotlin, C, html and css**
 
 - 📫 How to reach me: **muhammadhefzey@gmail.com**
 
