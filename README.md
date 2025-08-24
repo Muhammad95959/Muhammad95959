@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hefzey</h1>
 
 - 🌱 I’m currently expanding my knowledge in **Web Development**.
-
-- 💬 I’m happy to chat about **Neovim, Linux, Bash, Git, Android, Kotlin, C, HTML, CSS, JavaScript, TypeScript, Node JS and Mongo DB**.
-
 - 📫 Reach me at **muhammadhefzey@gmail.com**.
-
 - ⚡ Fun fact: **VIM is the best editor!**
 
 ### Languages and Tools:
